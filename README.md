@@ -10,3 +10,7 @@
 
 Открытые источники данных условий среды (Open Environmental Data): https://www.youtube.com/watch?v=wWQhxkcriXc (2 сентября 2021 года) (часть вебинара от 2 сентября, выложенная отдельно).
 
+Доролнительные материалы:
+
+цвета в системе R: http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
+
