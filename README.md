@@ -17,7 +17,7 @@
 
 Презентация о Species Distribution Modelling: SDM_presentaiton.pdf
 
-Учебный проект: Ac_project (необходимо скачать три архива и распаковать в одну папку)
+[Учебный проект: Ac_project](https://drive.google.com/file/d/1T6Mm6Qq2ByQVHFpvLl3q0NL5RsnVf1cP)
 
 [Литература по Species Distribution Modelling](https://drive.google.com/drive/folders/1nShhxfPUGqlQ7rkEVWdR9wOLGJcxy2Zd)
 
