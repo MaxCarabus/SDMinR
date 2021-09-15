@@ -16,8 +16,9 @@
 Материалы вебинара: webinar_2021-09-08.zip
 
 Презентация о Species Distribution Modelling: SDM_presentaiton.pdf
-
+<!---
 [Учебный проект: Ac_project](https://drive.google.com/file/d/1T6Mm6Qq2ByQVHFpvLl3q0NL5RsnVf1cP)
+--->
 
 [Литература по Species Distribution Modelling](https://drive.google.com/drive/folders/1nShhxfPUGqlQ7rkEVWdR9wOLGJcxy2Zd)
 
