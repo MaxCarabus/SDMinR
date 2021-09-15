@@ -15,6 +15,10 @@
 Вебинар от 8 сентября: Обработка данных среды и их объединение с данными о находках видов: https://www.youtube.com/watch?v=9hbYsCjkjLM<br>
 Материалы вебинара: webinar_2021-09-08.zip
 
+Презентация о Species Distribution Modelling: SDM_presentaiton.pdf
+
+Учебный проект: Ac_project (необходимо скачать три архива и распаковать в одну папку)
+
 [Литература по Species Distribution Modelling](https://drive.google.com/drive/folders/1nShhxfPUGqlQ7rkEVWdR9wOLGJcxy2Zd)
 
 
